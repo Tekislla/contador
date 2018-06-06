@@ -1,0 +1,2 @@
+# contador
+Contador com hotkeys
