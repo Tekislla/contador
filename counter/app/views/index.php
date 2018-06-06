@@ -13,6 +13,12 @@ require_once "../controller/controller.php";
     <script language="JavaScript" src="../../assets/js/shortcut.js"></script>
     <script>
 
+        function Soma(){
+            var num = document.getElementById("num1").value;
+            num.value = num++;
+            alert(num);
+        }
+
     shortcut.add("1",function()
     {
         var num = document.getElementById("num1").value;
@@ -100,7 +106,7 @@ require_once "../controller/controller.php";
                     <h5 class="card-title">A</h5>
                     <input disabled id="num1" value=128 style="width: 100%; text-align: center">
                     <br><br>
-                    <button class="btn btn-outline-success" style="width: 48%">+</button>
+                    <button onclick="Soma()" class="btn btn-outline-success" style="width: 48%">+</button>
                     <button class="btn btn-outline-danger" style="width: 48%">-</button>
                 </div>
             </div>
