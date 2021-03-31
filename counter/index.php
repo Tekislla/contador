@@ -130,7 +130,7 @@
                 <div class="card-body">
                     <h5 class="card-title" style="text-align: center">Contador</h5>
                     <p class="card-text" style="text-align: justify">Contador desenvolvido em JavaScript. Para somar, pressione a tecla <b style="color: green">verde</b> do respectivo contador. Para diminuir, pressione a tecla <b style="color: red">vermelha</b> do respectivo contador.</p>
-                    <p style="text-align: left">Desenvolvido por <a href="https://twitter.com/tekislla">João Pedro Lazarim</a></p>
+                    <p style="text-align: left">Desenvolvido por <a href="https://www.instagram.com/joaolazarim/">João Pedro Lazarim</a></p>
                 </div>
             </div>
         </div>
